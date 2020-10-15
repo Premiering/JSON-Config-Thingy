@@ -11,6 +11,7 @@ New Configuration:
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println(config.get("thing"));
 ````
 Existing Configuration:
 ````java
@@ -24,4 +25,6 @@ Existing Configuration:
             System.out.println(config.get("thing"));
             System.out.println(config.get("nerds"));
         }
+        config.set("hehewegotitworking", "this is a value");
 ````
+Everything should be pretty self explanatory and simple.
