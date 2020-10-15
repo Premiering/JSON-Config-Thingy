@@ -1,5 +1,6 @@
 # JSON-Config-Thingy
 Simplified org.json (org.json wrapper I think they call it)
+Requires org.json (you can download the jar and add it as a library https://repo1.maven.org/maven2/org/json/json/20200518/json-20200518.jar )
 # Usage
 New Configuration:
 ````java
