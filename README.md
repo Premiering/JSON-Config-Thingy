@@ -1,6 +1,6 @@
 # JSON-Config-Thingy
 Simplified org.json (org.json wrapper I think they call it)
-Requires org.json (you can download the jar and add it as a library https://repo1.maven.org/maven2/org/json/json/20200518/json-20200518.jar )
+Requires org.json (you can download the jar and add it as a library https://repo1.maven.org/maven2/org/json/json/20200518/json-20200518.jar ) and commons-io (https://mirrors.gigenet.com/apache//commons/io/binaries/commons-io-2.8.0-bin.zip)
 # Usage
 New Configuration:
 ````java
